@@ -1,0 +1,5 @@
+{
+  "twitch":"https://api.twitch.tv",
+  "twitch_videos": "/kraken/channels/${channelID}/videos",
+  "translateUserNameEndpoint":"https://api.twitch.tv/kraken/users?login="
+}

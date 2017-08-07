@@ -1,0 +1,7 @@
+{
+  "smtpUser": "twitch-helper@yandex.ru",
+  "smtpUserPassword": "nfnjxrf13AA",
+  "host": "smtp.yandex.ru",
+  "port": "465",
+  "secure": "true"
+}

@@ -1,8 +1,15 @@
 # twitch-helper
 React-app с сервером на коа. Взаимодействие с апи твича
 
-**MongoDB**
+## **MongoDB**
 Перед запуском нужно запустить базу `sudo mongod --dbpath <путь к папке>`
+
+## **Запуск**
+`npm install`
+`NODE_ENV=prod node server.js`
+`npm start`
+
+Можно в `package.json` запускать через babel, включив в команду npm start.
 
 ## **Последовательность действий и работы**
 * Запуск node и react
